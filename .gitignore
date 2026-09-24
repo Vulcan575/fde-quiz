@@ -1,0 +1,17 @@
+# 本地题库转换脚本（硬编码了本地路径，不随仓库发布）
+转换题库.py
+
+# 截图/测试工装
+_shot.html
+_w_*.html
+_probe*.html
+_wrap*.html
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
